@@ -2,7 +2,7 @@ This is the merge commit exercise,
 below are some variances I have made to show merge commiting
 
 1. Alpha
-2. Bronco
+2. Bravo
 3. Charlie
 4. Dixie
 5. Echo
