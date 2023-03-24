@@ -1,8 +1,8 @@
 This is the merge commit exercise,
 below are some variances I have made to show merge commiting
 
-1.
-2.
-3.
-4.
-5.
+1. Alpha
+2. Bronco
+3. Charlie
+4. Delta
+5. Echo
